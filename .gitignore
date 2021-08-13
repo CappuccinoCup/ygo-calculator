@@ -1,0 +1,10 @@
+# os
+.DS_Store
+
+# editor
+.vscode
+.idea
+
+# binary
+ygo-calculator
+*.exe
