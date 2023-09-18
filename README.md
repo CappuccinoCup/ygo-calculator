@@ -7,4 +7,8 @@ A simple calculator for YUGIOH. May be useful but don't expect too much.
 3. `go run .`
 4. Or you can `go run . path-to-your-deck-file path-to-your-need-file`.
 ## Note
-Default setting exists. You can `go run .` directly.
+- Default setting exists. You can `go run .` directly.
+- If you are executing on a CRLF system, please set git config:
+    ```bash
+    git config --global core.autocrlf false
+    ```
